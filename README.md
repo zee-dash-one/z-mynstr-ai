@@ -4,7 +4,7 @@
 
 O sistema é uma loja online de músicas curtas (1–2 min), personalizadas, com letra e voz em português do Brasil. A entrega é no mesmo dia, e não em dias. Agentes de IA cuidam do atendimento, da letra, da geração, da curadoria e da entrega. Nas fases iniciais, uma pessoa ouve e aprova cada faixa antes de ela sair.
 
-A proposta ao cliente: contar a história em poucos minutos e receber a música pronta, com licença de uso clara. A letra é aprovada antes de qualquer geração de música.
+A proposta ao cliente: contar a história em poucos minutos e receber a música pronta, com licença de uso clara. A letra é aprovada e, nos produtos de 2 min, o cliente ouve uma prévia cantada de 30 s antes de pagar. O Mini de 1 min vai sem prévia cantada, com preço menor e versão para Reels e Shorts. A prévia nunca é a entrega: a faixa completa só é gerada depois do pagamento.
 
 ## Para quem
 
@@ -20,15 +20,16 @@ Três públicos iniciais, ainda como hipótese:
 
 1. Descoberta pela landing page, Instagram, WhatsApp ou indicação.
 2. Pedido: produto, nome, ocasião, e-mail e WhatsApp, com aceite do Termo de Uso e da Política de Privacidade.
-3. Pagamento: Pix primeiro, cartão como segunda opção. A produção só começa depois da confirmação.
-4. Briefing por conversa (WhatsApp ou site): ocasião, pessoas, memórias, estilo, voz e o que evitar.
-5. Letra proposta ao cliente, que aprova ou pede ajuste dentro do limite do produto.
-6. Geração de candidatas, curadoria e escolha da melhor.
-7. Aprovação interna: uma pessoa ouve a faixa antes da entrega.
-8. Entrega por link privado, com player, download, certificado de licença e, quando contratado, capa ou vídeo.
-9. Pós-venda: revisão, avaliação e indicação.
+3. Briefing por conversa (WhatsApp ou site): ocasião, pessoas, memórias, estilo, voz e o que evitar.
+4. Letra proposta ao cliente, que lê, edita e aprova dentro do limite do produto.
+5. Prévia gratuita (só nos produtos de 2 min): 30 s da música cantada, liberada antes do pagamento e sem cartão. No Mini não há prévia cantada: vale a letra aprovada, a amostra de voz e estilo do catálogo e a garantia de 7 dias.
+6. Pagamento: Pix primeiro, cartão como segunda opção. A geração da faixa completa só começa depois da confirmação.
+7. Geração de candidatas, curadoria e escolha da melhor.
+8. Aprovação interna: uma pessoa ouve a faixa antes da entrega.
+9. Entrega por link privado, com player, download, certificado de licença e, quando contratado, capa ou vídeo.
+10. Pós-venda: revisão, avaliação e indicação.
 
-Estados do pedido: rascunho, aguardando pagamento, pago, briefing, letra proposta, letra aprovada, gerando, curadoria, aprovação interna, entregue, em revisão e concluído. Desvios: bloqueado por compliance, cancelado e reembolsado.
+Estados do pedido: rascunho, briefing, letra proposta, letra aprovada, prévia gerando, prévia enviada, aguardando pagamento, pago, gerando, curadoria, aprovação interna, entregue, em revisão e concluído. Desvios: bloqueado por compliance, cancelado, reembolsado e expirado (prévia sem pagamento).
 
 ## O que o cliente recebe
 
@@ -37,13 +38,17 @@ Preços e limites abaixo são hipóteses, a validar com pedidos reais. O prazo-a
 
 | Produto  | Conteúdo                                                  | Preço sugerido | Revisões |
 | -------- | --------------------------------------------------------- | -------------- | -------- |
-| Mini     | até 1 min, letra curta, 1 estilo                          | R$20–29        | 1        |
+| Mini     | até 1 min, letra curta, 1 estilo, versão para Reels e Shorts | R$20–25        | 1        |
 | Padrão   | até 2 min, letra completa, capa simples                   | R$39           | 2        |
 | Presente | Padrão + vídeo com letra e dedicatória                    | R$49–59        | 2        |
 | Negócio  | Padrão + versão instrumental + licença comercial ampliada | R$79–149       | 2        |
 
 
 A licença oferecida é de uso perpétuo e não exclusivo, com certificado em PDF e rastreio de cada faixa. O sistema não promete exclusividade nem direito autoral sobre a parte gerada por IA.
+
+A licença é comercial, não apenas pessoal: o cliente pode usar a faixa no próprio negócio. É o principal ponto em que o mercado de presentes não compete — os concorrentes diretos oferecem licença pessoal e retêm o IP.
+
+O vídeo com letra está incluído no Presente. Fora dele, é vendido como add-on de R$19–29 após a compra, porque no formato atual o vídeo custa mais para produzir do que a diferença de preço do Presente ([video-com-letra.md](video-com-letra.md)).
 
 ## Como funciona
 
@@ -80,6 +85,8 @@ O sistema está na fase de documentação e validação (Fase 0). Este repositó
 - [requisitos.md](requisitos.md) — visão, jornada, agentes, requisitos, motores, compliance, operação e roadmap (v2.0).
 - [analiseSWOT.md](analiseSWOT.md) — forças, fraquezas, oportunidades, ameaças e concorrentes.
 - [suno-loja-micro-musicas.md](suno-loja-micro-musicas.md) — resumo de direitos, riscos de mau uso e mapa de plataformas de música com IA.
+- [analise-concorrente-hosannasong.md](analise-concorrente-hosannasong.md) — análise do concorrente direto Hosanna Song, com verificação de legitimidade, preços, funil, termos e implicações para o produto.
+- [video-com-letra.md](video-com-letra.md) — custo por rota de produção, serviços, pipeline próprio e as seis camadas de direitos do vídeo com letra.
 
 
 

@@ -27,7 +27,7 @@ Detalhes e fontes: `/workspace/suno/mau-uso-responsabilidade.md`.
 ## 3. Mapa das plataformas de música com IA
 _Incorporado de `/workspace/suno/plataformas-musica-ia.md` em 16/10/2026, a pedido do Hil via Marketing._
 
-Uso previsto: músicas personalizadas curtas (1–2 min), com voz em pt-BR, vendidas a R$20–50 para uso pessoal do cliente. Como Hil revende a faixa, **todo uso conta como comercial**, então o plano grátis só serve para prévia ou rascunho (salvo exceções indicadas abaixo).
+Uso previsto: músicas personalizadas curtas (1–2 min), com voz em pt-BR, vendidas a R$20–50 com licença de uso (pessoal ou comercial). Como Hil revende a faixa, **todo uso conta como comercial**, então o plano grátis só serve para prévia ou rascunho (salvo exceções indicadas abaixo).
 Legenda: **[oficial]** = página da própria empresa; **[terceiro]** = review/comparador (confirmar no checkout); **[não confirmado]** = não achei fonte confiável. Preços em US$/€, sem conversão. A qualidade da voz em pt-BR **não foi testada por mim** em nenhuma delas: onde houver, cito só o que a fonte diz sobre suporte ao idioma.
 
 ### 1. Músicas completas com voz e letra
@@ -160,3 +160,4 @@ Regra de ouro: só entregar a faixa gerada **dentro de um plano pago** ou com li
 - Teste de qualidade em pt-BR (mesma letra em Mureka, Lyria, ElevenLabs, Suno, ACE-Step e Treblo): não feito.
 - Confirmar no ToS: o comercial grátis do Treblo; o comercial no pago e a licença do Google no Producer.ai/Flow Music; os preços da Tunee e da Musicful; a duração máxima de Mureka e Suno.
 - Meta MusicGen e YuE: os detalhes não foram verificados.
+- Custo real de prévia gratuita por lead e taxa de conversão prévia → pedido: medir nos primeiros pedidos-piloto (ver analise-concorrente-hosannasong.md §9).
